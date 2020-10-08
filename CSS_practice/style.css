@@ -1,0 +1,122 @@
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+.table-1 {
+	  width: 100%;
+	  border-color: #b8b8b8;
+	  border-collapse: collapse;
+	  }
+	  
+.header {
+	text-align: center; 
+	padding: 7px; 
+	height: 40px; 
+	border-bottom: 2px solid; 
+	border-color: #b8b8b8; 
+	border-collapse: collapse;
+}
+
+.container {
+	text-align: right; 
+	padding: 3px; 
+	height: 4px; 
+	border-bottom: 2px solid #b8b8b8;
+}
+
+.leftcontainer {
+background-image: url('D:/Иннуся/Hillel - QA Automation/CSS_js/images/Grey.jpg'); 
+width: 15%; 
+height:510; 
+border: 2px solid #b8b8b8;
+text-align: left;
+position: static;
+}
+
+.loginform {
+	valign: top; 
+	background: #f0f0f0; 
+	width:100%; 
+	height: 510px; 
+	border-bottom: 2px solid #b8b8b8; 
+	display: grid;  
+	grid-template-columns:99%"
+}
+
+.centertable {
+	margin: 5px;
+	valign = top;
+}
+
+.logintext {
+	text-align: right;
+	valign: top;
+	background-color: #e0e0e0; 
+	width:30%; 
+	padding: 3px; 
+	border: 2px solid #b8b8b8; 
+	border-color: #b8b8b8;	
+}
+
+.loginactions {
+	text-align: left; 
+	padding: 10px; 
+	background-color: #e0e0e0; 
+	margin: 10px; 
+	border: 2px solid #b8b8b8; 
+	border-color: #b8b8b8;
+}
+
+.rightcontainer {
+	background-image: url('D:/Иннуся/Hillel - QA Automation/CSS_js/images/Grey.jpg'); 
+	valign: top; 
+	width: 15%; 
+	height:510; 
+	text-align: left; 
+	border: 2px solid #b8b8b8; 
+	position: static;
+}
+
+.centralcontainer {
+	background-color: #f0f0f0; 
+	height: 510; 
+	width: 60%;
+	border-bottom: 2px solid #b8b8b8;
+}
+
+.centertable {
+	margin: 5px;
+	valign: top;
+}
+
+.central {
+	text-align: left; 
+	valign: top; 
+	width:30%; 
+	padding: 3px; 
+	background-color: #e0e0e0; 
+	border: 2px solid #b8b8b8;
+}
+
+.containercentre {
+	border-radius: 5px;  
+	background-color: #f2f2f2;
+	padding: 7px; 
+	background-color: #e0e0e0;
+}
+
+.btn {
+	margin: 5px; 
+	width: 80px
+}
+
+.footer {	
+	  position: absolute;
+	  bottom: 0;
+	  left: 0;
+	  right: 0;
+	  height: 20px;
+	  text-align: center;
+	  width: 100%;
+	  }
